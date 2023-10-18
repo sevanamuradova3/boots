@@ -1,0 +1,28 @@
+* {
+  margin: 0%;
+  padding: 0%;
+  box-sizing: border-box;
+}
+
+.navigation a {
+  color: white;
+}
+.navigation a:hover {
+  color: white;
+}
+
+.menu {
+  width: 280px;
+  height: 350px;
+  background-color: rgb(37, 127, 127);
+  color: white;
+  text-align: center;
+  padding-top: 10px;
+}
+.menu i {
+  font-size: 100px;
+}
+
+.lineblue {
+  background-color: aqua;
+}
